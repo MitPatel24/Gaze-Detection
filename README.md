@@ -1,4 +1,4 @@
-# Alert System Based on Gaze Detection
+# 👀 Alert System Based on Gaze Detection 👀
 
 ## 📜 **Project Description**
 The Gaze Detection Project leverages computer vision techniques using OpenCV and MediaPipe to implement face and gaze detection capabilities. The project includes two primary functionalities:
